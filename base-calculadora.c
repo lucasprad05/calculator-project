@@ -1,7 +1,7 @@
 /*
  * @file: base-calculadora.c
  * @date: 28 Feb 2022
- * @author: Lucas Prado and João Paulo
+ * @author: Lucas Prado and João Paulo P.
  * @brief: 
  *  - Projeto Base - Utilizando C para o projeto da calculadora
  * EM PROGRESSO...
